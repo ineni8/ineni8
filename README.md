@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Ineni Prasad -->
 
 <h1 align="center">Hi 👋, I'm Ineni Prasad</h1>
-<h3 align="center">Aspiring RTL Design and Verification Engineer | B.Tech ECE Student</h3>
+<h3>Aspiring RTL Design and Verification Engineer | B.Tech ECE Student</h3>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=VLSI+Trainee+%7C+Verilog+HDL+%7C+FPGA+Learner;Passionate+about+Chip+Design+and+RTL+Coding;Eager+to+Join+a+Core+Semiconductor+Team!" alt="Typing SVG" />
@@ -17,8 +17,7 @@
 - 💻 Proficient in **C, Python, Java, Verilog HDL**
 - 🧠 Strong in **Digital Electronics** and **Logic Design**
 - 🎯 Goal: Become a **VLSI Engineer** in a product-based semiconductor company (like AMD or Intel)
-- 📫 How to reach me: **[ineni.prasad@email.com](mailto:ineni.prasad@email.com)**  
-- 💬 Ask me about: FSM design, RTL coding, Verilog testbenches, and digital logic
+- 📫 How to reach me: **[ineniprasad906@gmail.com](mailto:ineniprasad906@gmail.com)**  
 
 ---
 
