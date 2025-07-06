@@ -1,32 +1,27 @@
 <!-- GitHub Profile README for Ineni Prasad -->
 
 <h1 align="center">Hi 👋, I'm Ineni Prasad</h1>
-<h3 align="center">B.Tech ECE Student | Aspiring RTL Design and Verification Engineer</h3>
----
+<h3 align="center">B.Tech ECE Student | RTL Design and Verification Trainee</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm a **3rd Year B.Tech ECE student**
-- 🔍 Trainee at **Technical Hub** with hands-on training in **VLSI and Verilog HDL**
-- 💡 Exploring **Frontend RTL Design**, **ASIC flow**, and **FPGA-based development**
-- 💻 Proficient in **C, Python, Java, Verilog HDL**
+- 🎓 I'm a **3rd Year B.Tech, ECE student**
+- 🔍 Trainee at **Technical Hub** with hands-on training in **VLSI (Verilog HDL & system verilog)**
+- 💡 Exploring **Frontend RTL Design and Verification**, **ASIC flow****
+- 💻 Proficient in **C, Python, Verilog HDL, System Verilog**
 - 🧠 Strong in **Digital Electronics** and **Logic Design**
-- 🎯 Goal: Become a **VLSI Engineer** in a product-based semiconductor company (like AMD or Intel)
+- 🎯 Goal: To Become a **VLSI DV Engineer** in a semiconductor Industry.
 - 📫 How to reach me: **[ineniprasad906@gmail.com](mailto:ineniprasad906@gmail.com)**  
 
----
+
 
 ## 🛠️ Skills & Tools
 
 | Category        | Technologies & Tools                            |
-|----------------|--------------------------------------------------|
-| **Languages**   | C, Python, Java, Verilog HDL                    |
+|-----------------|-------------------------------------------------|
+| **Languages**   | C, Python, Verilog HDL, System verilog          |
 | **Web**         | HTML, CSS                                       |
-| **Hardware Tools** | MATLAB, PSpice, FPGA Boards, Vivado IDE     |
-| **Domain**      | Digital Logic, FSM Design, RTL Coding, VLSI    |
-| **Platforms**   | CodeChef ⭐⭐⭐⭐⭐ in C, CodeMind 500+ problems     |
-
----
+| **Hardware Tools** | MATLAB, PSpice, Vivado, Cadence              |
 
 ## 💼 Projects
 
@@ -47,14 +42,6 @@
 - Tracks total daily revenue  
 - Seat availability check and assignment logic  
 
-### 📊 Digital Clock & Stopwatch (FPGA-Based)
-> Designed a basic digital clock and stopwatch on an FPGA using Verilog and 7-segment displays.  
-**Features**:
-- Counter-based logic  
-- Reset and start-stop toggle  
-- Multiplexed display output on FPGA
-
----
 
 ## 📈 GitHub Stats
 
