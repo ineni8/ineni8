@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Ineni Prasad -->
 
 <h1 align="center">Hi 👋, I'm Ineni Prasad</h1>
-<h3 align="center">Aspiring VLSI Engineer | B.Tech ECE Student | Frontend RTL Designer</h3>
+<h3 align="center">Aspiring RTL Design and Verification Engineer | B.Tech ECE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=VLSI+Trainee+%7C+Verilog+HDL+%7C+FPGA+Learner;Passionate+about+Chip+Design+and+RTL+Coding;Eager+to+Join+a+Core+Semiconductor+Team!" alt="Typing SVG" />
