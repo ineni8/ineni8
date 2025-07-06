@@ -19,8 +19,7 @@
 
 | Category        | Technologies & Tools                            |
 |-----------------|-------------------------------------------------|
-| **Languages**   |![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-                  ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-DA70D6?style=for-the-badge&logo=verilog&logoColor=white)![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-               badge&logo=systemverilog&logoColor=white)|
+| **Languages**   |C, Python, Verilog HDL, System verilog           |
 | **Web**         | HTML, CSS                                       |
 | **Hardware Tools** | MATLAB, PSpice, Vivado, Cadence              |
 
