@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Ineni Prasad -->
 
 <h1 align="center">Hi 👋, I'm Ineni Prasad</h1>
-<h3>     B.Tech ECE Student | Aspiring RTL Design and Verification Engineer</h3>
+<h3>                           B.Tech ECE Student | Aspiring RTL Design and Verification Engineer</h3>
 ---
 
 ## 🙋‍♂️ About Me
