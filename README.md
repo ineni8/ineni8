@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 I'm a **3rd Year B.Tech, ECE student**
-- 🔍 Trainee at **Technical Hub** with hands-on training in **VLSI (Verilog HDL & system verilog)**
+- 🔍 Trainee at **Technical Hub** with hands-on training in **VLSI (Verilog HDL & system verilog)** 
 - 💡 Exploring **Frontend RTL Design and Verification**, **ASIC flow****
 - 💻 Proficient in **C, Python, Verilog HDL, System Verilog**
 - 🧠 Strong in **Digital Electronics** and **Logic Design**
