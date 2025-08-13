@@ -45,10 +45,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  ![Total Verilog Problems](https://img.shields.io/badge/Verilog_Problems-50-blue)
-  <img src="https://img.shields.io/badge/Verilog_Problems-50-blue?style=for-the-badge" />
-</p>
-<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ineni8&theme=radical&custom_title=Verilog%20Problems%20Count:%2050" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ineni8&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ineni8&theme=radical" alt="GitHub Streak"/>
