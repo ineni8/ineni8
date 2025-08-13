@@ -45,6 +45,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
+  ![Total Verilog Problems](https://img.shields.io/badge/Verilog_Problems-50-blue)
   <img src="https://img.shields.io/badge/Verilog_Problems-50-blue?style=for-the-badge" />
 </p>
 <p align="center">
